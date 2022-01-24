@@ -162,8 +162,14 @@ input, select, textarea {
 		font-style: italic;
 	}
 
+	li {
+		color: #000000;
+		font-weight: 600;
+	}
 	p {
 		margin: 0 0 2em 0;
+		color: #000000;
+		font-weight: 600;
 	}
 
 	h1 {
